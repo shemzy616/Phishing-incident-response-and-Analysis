@@ -1,0 +1,6 @@
+# Exclude environment files containing API keys
+.env
+
+# Exclude Python cache files
+__pycache__/
+*.pyc
