@@ -25,7 +25,7 @@ To eliminate manual web interface lookups, I developed `vt_scanner.py`, a lightw
 4. Run the script: `python vt_scanner.py`
 
 <p align="center">
-  <img src="evidence/script_execution.png" alt="Python Script Execution">
+  <img src="evidence/script_execution.png.png" alt="Python Script Execution">
 </p>
 
 ## Incident Report
